@@ -1,0 +1,7 @@
+C:\Users\Ильяс Сабитов\source\CreateTableInDb\CreateTableInDb\bin\Debug\CreateTableInDb.exe.config
+C:\Users\Ильяс Сабитов\source\CreateTableInDb\CreateTableInDb\bin\Debug\CreateTableInDb.exe
+C:\Users\Ильяс Сабитов\source\CreateTableInDb\CreateTableInDb\bin\Debug\CreateTableInDb.pdb
+C:\Users\Ильяс Сабитов\source\CreateTableInDb\CreateTableInDb\obj\Debug\CreateTableInDb.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\CreateTableInDb\CreateTableInDb\obj\Debug\CreateTableInDb.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\CreateTableInDb\CreateTableInDb\obj\Debug\CreateTableInDb.exe
+C:\Users\Ильяс Сабитов\source\CreateTableInDb\CreateTableInDb\obj\Debug\CreateTableInDb.pdb
